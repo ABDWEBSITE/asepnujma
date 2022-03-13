@@ -1,0 +1,23 @@
+
+.jumbotron{
+    background-image: url(img/pw3.jpg);
+    filter: brightness(80%);
+    background-size: cover;
+    height: 500px;
+    margin-left: -100px;
+    
+}
+.jumbotron h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 250px;
+    margin-top: 200px;
+    text-shadow: rgb(20, 22, 20) 3px 1px;
+}
+.jumbotron p{
+    color: ivory;
+    margin-left: 250px;
+    text-shadow: rgb(20, 22, 20) 3px 1px;
+}
+.about{
+    background-color: gray;
+}
